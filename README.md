@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T1nyT1n
+- 👋 Hi, I’m Tiny Tin
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Unity and Python.
 - 📫 How to reach me: Discord - TinyTin [bmd.GG]#8287, Telegram - https://t.me/tinytin312.
