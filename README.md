@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Tiny Tin**
 - 👀 I’m interested in **game development**.
-- 🌱 I’m currently learning **Unity** and **Python**.
+- 🌱 I’m currently learning **Unity**.
 - 📫 How to reach me: Discord - **@tinytin312**, Telegram - **https://t.me/tinytin312**.
 
 <!---
