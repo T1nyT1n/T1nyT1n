@@ -1,9 +1,21 @@
-- 👋 Hi, I’m **Tiny Tin**
-- 👀 I’m interested in **game development**.
-- 🌱 I’m currently learning **Unity**.
-- 📫 How to reach me: Discord - **@tinytin312**, Telegram - **https://t.me/tinytin312**.
+# :yellow_heart: Writing games, playing with code
 
-<!---
-T1nyT1n/T1nyT1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> [!IMPORTANT]
+> :smirk_cat: **Hi, name's Tin. Tiny Tin.**
+> 
+> I'm an Undergraduate Student in **Computer Science**, Linux rookie and A Cat That Walks By Itself. Nice to meet you. :wave:
+
+## How to contact me
+
+### [![Telegram Icon](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/telegram.svg) Telegram](https://t.me/tinytin312): `@tinytin312`
+
+---
+
+> [!CAUTION]
+> **Do not send a message that just says "Hello"!**
+>
+> This is a waste of time for both of us, because then you will have to wait for me to respond and ask you what you actually need. This is even more important if we are in different time zones.
+>
+> If you write everything in the first message, I can answer to your question or help you right away!
+
+<!-- 312. -->
